@@ -1,0 +1,4 @@
+void l2cap_init()
+{
+    
+}

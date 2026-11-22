@@ -1,0 +1,4 @@
+void gatt_init()
+{
+    
+}
